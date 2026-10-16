@@ -1,6 +1,6 @@
 # Wastewater Surveillance — Viral Signal Monitor
 
-An interactive dashboard visualising SARS-CoV-2 viral signal in US wastewater, built on the CDC National Wastewater Surveillance System (NWSS) public open dataset.
+An interactive dashboard visualising SARS-CoV-2 viral signal in US wastewater, built on the CDC National Wastewater Surveillance System (NWSS) public open dataset. Note that a similar version of this project using data from Canada is available at https://github.com/IvanR2625/CanadaWastewaterSurveillance 
 
 **Live site → https://ivanr2625.github.io/WasteWaterSurveillance/**
 
